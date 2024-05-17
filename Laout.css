@@ -1,0 +1,110 @@
+
+
+
+.container-fluid a img{
+    height: 8vh;
+}
+
+
+.navbar {
+    box-shadow: 2px 2px 2px grey;
+}
+
+
+
+aside{
+    width: 30%;
+    height: 80vh; 
+    background-image: url("img/220-SM852908.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+}
+
+.somewhere{
+    display: flex;
+    flex-direction: column;
+}
+
+.card{
+    margin-left: 25px;
+    padding: 5px;
+    
+}
+
+p a{
+    color: white;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
